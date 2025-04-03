@@ -1,0 +1,7 @@
+{
+  "name": "Tether USD",
+  "symbol": "USDT",
+  "decimals": 6,
+  "description": "Test USDT Jetton for TON Testnet",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/6/6f/Tether-logo.svg"
+}
